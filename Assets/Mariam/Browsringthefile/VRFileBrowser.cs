@@ -3,7 +3,7 @@ using System.Collections;
 using System.IO;
 using SimpleFileBrowser;
 using UnityEngine.UI;
-
+using System.Reflection;
 public class VRFileBrowser : MonoBehaviour
 {
     public RawImage imageDisplay;
