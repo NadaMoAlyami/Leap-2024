@@ -6,7 +6,6 @@ using UnityEditor;
 
 public class ToBrowserFiels : MonoBehaviour
 {
-    /*
     // Start is called before the first frame update
    string path;
    public RawImage image;
@@ -28,5 +27,5 @@ public class ToBrowserFiels : MonoBehaviour
         WWW www = new WWW("file:///"+ path);
         image.texture = www.texture;
     }
-   */
+   
 }
